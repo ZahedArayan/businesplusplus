@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+
+.fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+   
+}
+.footer{
+    background-color: rgb(30, 30, 30);
+}
